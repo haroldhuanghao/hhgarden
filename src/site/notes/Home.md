@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"]}
 ---
 
 ### 考研408
@@ -34,4 +34,3 @@
 [[408/计算机网络建议#第5章 传输层\|计算机网络建议#第5章 传输层]]
 [[408/计算机网络建议#第6章 应用层\|计算机网络建议#第6章 应用层]]
 
-![[25张宇基础30讲-高数.pdf#page=42&rect=42,332,445,477&color=yellow|25张宇基础30讲-高数, p.42]]
