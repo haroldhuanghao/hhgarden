@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/"}
+{"dg-publish":true,"permalink":"/test/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-01T19:15:52.286+08:00","updated":"2024-07-02T00:06:47.257+08:00"}
 ---
 
 ```python
