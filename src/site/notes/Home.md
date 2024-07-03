@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-29T16:49:38.964+08:00","updated":"2024-07-01T11:20:59.814+08:00"}
 ---
 
 ### 考研408
